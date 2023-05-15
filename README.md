@@ -1,2 +1,1 @@
-# Algorithms_tasks 
-code by php 
+# Algorithms_implemntion by php 
